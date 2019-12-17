@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <psf version="2.0">
 <provider id="org.eclipse.team.svn.core.svnnature">
-<project reference="1.0.1,https://github.com/dandar3/android-google-dagger/tags/1.0.0,google-dagger,d015187e1c21001a17d1ba9ba8e741c4;https://github.com/dandar3/android-google-dagger;https://github.com/dandar3/android-google-dagger;branches;tags;trunk;true;ac38857b-d7d5-dd5b-8900-ce57b7db7bff;https://github.com/dandar3/android-google-dagger;;false;;;0"/>
+<project reference="1.0.1,https://github.com/dandar3/android-google-dagger/tags/2.22,google-dagger,d015187e1c21001a17d1ba9ba8e741c4;https://github.com/dandar3/android-google-dagger;https://github.com/dandar3/android-google-dagger;branches;tags;trunk;true;ac38857b-d7d5-dd5b-8900-ce57b7db7bff;https://github.com/dandar3/android-google-dagger;;false;;;0"/>
+<project reference="1.0.1,https://github.com/dandar3/android-javax-inject/tags/1,javax-inject,c0836ef81a21001a17d1ba9ba8e741c4;https://github.com/dandar3/android-javax-inject;https://github.com/dandar3/android-javax-inject;branches;tags;trunk;true;3c564229-0a68-3a1e-e067-ce57b7db7bff;https://github.com/dandar3/android-javax-inject;;false;;;0"/>
 </provider>
 </psf>
